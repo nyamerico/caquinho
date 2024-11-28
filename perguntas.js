@@ -1,23 +1,17 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    
+    'O que é o caquinho?',
+    'O é uma especie de macacos sagui'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    
+    'o que o caquinho gosta de comer  ?',
+    'bananas'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
 
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'qual o tamanho de um sagui?',
+    'o tamanho de um sagui pode caber na palma da mão'
 )
